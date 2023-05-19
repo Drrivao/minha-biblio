@@ -1,0 +1,8 @@
+selenium == 4.9.1
+pyautogui == 0.9.53
+webdriver_manager == 3.8.6
+PyPDF4
+pdfkit
+requests
+bs4
+rich
